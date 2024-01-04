@@ -1,6 +1,8 @@
-# 👋 Hello, I'm [Amar Ustavdić]!
+# 👋 Hello, I'm Amar Ustavdić!
 
-Welcome to my coding playground! I'm a second-year computer science student with an insatiable curiosity and a love for experimenting with code. Embracing the challenge, I believe that shooting oneself in the leg a few times is the best way to expand our understanding and learn something new.
+Welcome to my coding playground! 
+I'm a second-year computer science student with an insatiable curiosity and a love for experimenting with code. 
+Embracing the challenge, I believe that shooting oneself in the leg a few times is the best way to expand our understanding and learn something new.
 
 ## 💻 About Me
 - 🎓 Currently in my second year of computer science studies.
@@ -24,7 +26,8 @@ In my free time, I sharpen my problem-solving skills on platforms like Codeforce
 Here are some of the projects I'm currently working on or have completed:
 ### [P2P Authoritative Multiplayer Game Architecture](https://github.com/AmarUstavdic/P2P-Authoritative-Multiplayer-Game-Architecture)
 
-This project originated as a part of a faculty course on multithreaded programming, evolving into a captivating exploration of peer-to-peer (P2P) authoritative multiplayer game architecture. While it's still a work in progress, the journey has been nothing short of enlightening.
+This project originated as a part of a faculty course on multithreaded programming, evolving into a captivating exploration of peer-to-peer (P2P) authoritative multiplayer game architecture. 
+While it's still a work in progress, the journey has been nothing short of enlightening.
 
 #### Key Learnings:
 - **Multithreaded Programming:** Delved into the intricacies of managing concurrent threads, a crucial aspect of robust multiplayer game development.
