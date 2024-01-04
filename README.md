@@ -41,7 +41,7 @@ Feel free to explore the project repository and share your insights or suggestio
 
 
 ## 📫 Connect with Me
-- **LinkedIn:** [amarustavdic]
+- **LinkedIn:** [amarustavdic](https://www.linkedin.com/in/amarustavdic/)
 
 
 Feel free to explore my repositories, provide feedback, or connect with me.
